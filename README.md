@@ -1,5 +1,5 @@
 # Bootstrap_Login_Signup
-Bootstrap Login and Signup Beautiful UI Page with Overlay Effects</br></br>
+Bootstrap Login and Signup Beautiful UI Page with Overlay Effects</br>
 
 Just download the respository and unzip the file. </br>
 1] Open "login_signup.php" file and here you go. </br>
